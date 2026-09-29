@@ -4,7 +4,7 @@ A Python-based simulation project exploring how infectious diseases spread throu
 
 ## About the Project
 
-This project was completed as part of my **Introduction to Computer Science** course. It was a **two-person group project**, developed collaboratively with one other student.
+This project was completed as part of my **Introduction to Computer Science** course at Denison University (CS-111). It was a **two-person group project**, developed collaboratively with one other student.
 
 The goal of the project was to apply introductory Python programming and data analysis concepts to model the spread of an infectious disease. We examined how changes in population, transmission, and recovery rates affected infection patterns and overall epidemic trajectories.
 
