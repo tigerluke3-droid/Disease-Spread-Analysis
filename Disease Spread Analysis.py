@@ -1,11 +1,6 @@
 '''
-CS 111 Project 4
-Tracking the Spread of Disease 
-3/9/2026
-Names: <Johnathan Zheng and Luke McMiller>
-
-This program uses the random python module and SIR model of disease spread to demonstrate how different 
-variations in terms of population size, trasmission rates, etc. can effect how many people end up being
+This program uses the random Python module and SIR model of disease spread to demonstrate how different 
+variations in terms of population size, transmission rates, etc. can affect how many people end up being
 infected from a disease, as well as how many people can recover from a disease when there is randomness versus
 no randomness.
 
